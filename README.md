@@ -29,3 +29,7 @@ A curated list of things I really recommend people to see.
 ## TED Talk
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) [Your words may predict your future mental health](https://www.youtube.com/watch?v=uTL9tm7S1Io&feature=youtu.be)
 2. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) [Change your brain, change your life](https://www.youtube.com/watch?v=wc7CCLLDTaM&feature=youtu.be)
+
+
+# Insights
+1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) Quebrar paradigma demonstra autoconfiança e é o ato de aceitar as manifestações femininas mesmo em nós mesmos
