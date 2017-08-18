@@ -3,7 +3,8 @@ A curated list of things I really recommend people to see.
 1. [Money](#money)
 2. [Relationships](#relationships)
 3. [Health](#health) ( [TED Talks](#ted-talk) )
-4. [Leadership](#leadership)
+4. [Insights](#insights)
+5. [Leadership](#leadership)
 
 # Money
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) Paradox of higher returns with lower risks - Mark Spitznagel [[link](https://www.youtube.com/watch?v=LyGtiiGBEc8)]
@@ -11,7 +12,7 @@ A curated list of things I really recommend people to see.
 > * The heuristics (...) to achieve antifragility (...) is (sic) the barbell heuristic 
 > * (...) having a very risky portion of your portfolio and **very** minimal risk on the other side is a lot better than having medium risk
 
-3. next...
+3. Felipe Miranda - "Muito risco e muito seguro é melhor do que pouco risco."
 
 # Relationships
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) O segredo do casamento [[link](https://www.youtube.com/watch?v=ptpjakx2S08)]
@@ -36,7 +37,8 @@ A curated list of things I really recommend people to see.
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) Quebrar paradigma demonstra autoconfiança e é o ato de aceitar as manifestações femininas mesmo em nós mesmos
 2. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) A melhor forma de evitar um grande incêndio é permitindo pequenos focos de fogo. 
 > Em 1988, o Parque Nacional de Yellowstone, nos EUA, enfrentou um incêndio que consumiu aproximadamente 45% de sua área. Nunca se nha visto ali fenômeno de tal proporção, nem de perto. A partir daquele momento, a paisagem do local jamais voltaria a ser a mesma. O Parque convivera por 100 anos com uma políca de total supressão ao fogo, até a descoberta de que a práca de tolerância zero com incêndios, mesmo aqueles de baixa intensidade e gerado por causas naturais, posicionava a região para o desastre. Após perceber que o fogo, sob determinadas circunstâncias, atuava como um importante fator de equilíbrio para a homeostase do sistema, o Federal Wildland Fire Management alterou, em 1995, a forma com que se encaravam pequenos incêndios. Em vez total supressão, permiam‐se ocorrências pontuais, como forma justamente de, por meio de feedbacks posivos e negavos, angir‐se a homeostase do ecossistema a parr de forças naturais. Pode soar contraintuivo, mas a melhor forma de evitar um grande incêndio é permindo pequenos focos de fogo.
+3. Felipe Miranda - "Cair de uma altura de 1 metro por 50 vezes não é a mesma coisa do que cair uma única vez de uma altitude de 50 metros."
 
 # Leadership
 
-1. Não precisamos de algúem que não faça aquilo que lhe mandam, mas também não precisamos de alguém que só faça aquilo que lhe mandam.
+1. DeRose - Não precisamos de algúem que não faça aquilo que lhe mandam, mas também não precisamos de alguém que só faça aquilo que lhe mandam.
