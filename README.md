@@ -8,7 +8,7 @@ A curated list of things I really recommend people to see.
 
 # Money
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) Paradox of higher returns with lower risks - Mark Spitznagel [[link](https://www.youtube.com/watch?v=LyGtiiGBEc8)]
-2. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [[link](https://youtu.be/MMBclvY_EMA?t=3830)]
+2. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [[Nassim Taleb on Antifragility](https://youtu.be/MMBclvY_EMA?t=3830)]
 > * The heuristics (...) to achieve antifragility (...) is (sic) the barbell heuristic 
 > * (...) having a very risky portion of your portfolio and **very** minimal risk on the other side is a lot better than having medium risk
 
@@ -31,7 +31,7 @@ A curated list of things I really recommend people to see.
 ## TED Talk
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) [Your words may predict your future mental health](https://www.youtube.com/watch?v=uTL9tm7S1Io&feature=youtu.be)
 2. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) [Change your brain, change your life](https://www.youtube.com/watch?v=wc7CCLLDTaM&feature=youtu.be)
-
+3. [[How to live to be 100+](https://www.youtube.com/watch?v=ff40YiMmVkU)
 
 # Insights
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) Quebrar paradigma demonstra autoconfiança e é o ato de aceitar as manifestações femininas mesmo em nós mesmos
@@ -40,10 +40,15 @@ A curated list of things I really recommend people to see.
 3. Felipe Miranda - "Cair de uma altura de 1 metro por 50 vezes não é a mesma coisa do que cair uma única vez de uma altitude de 50 metros."
 4. Livro: O senhor do tempo - Mark Ford
 > ROTINA DIÁRIA: Começar o dia limpando a caixa de e-mails bobagem. A maior parte do que est l não tem nada a ver com seus objetivos e aspiraçes. É trabalho que os outros desejam que você faça por eles.
+
 > PLANEJAMENTO DE ROTINA: Eu começo todos os dias no dia anterior. (...) elaboro minha lista de tarefas diárias no fim do dia anterior. (...) começo analisando a lista do dia. Vejo quais tarefas completei e quais não consegui completar. Minha nova lista começa com essas tarefas não finalizadas (...) observo meus objetivos semanais e vejo se quero adicionar outras tarefas. Então, eu olho minhas caixas de entrada e decido o que fazer com o que est lá. A maioria programo para mais tarde, envio para a lixeira ou redireciono para outras pessoas. Na maioria dos dias, eu termino a programação com cerca de 20 tarefas que duram de 15 minutos a uma hora.
+
 > MULTITAREFAS: Vou dizer algo e você pode me citar: Qualquer coisa que valha a pena fazer merece toda a sua atenção.
+
 > ROTINA DIÁRIA: Meu dia típico tem duas ou três tarefas de uma hora, três ou quatro de meia hora e mais ou menos 12 tarefas de 15 minutos. O tipo de trabalho que você faz pode ser diferente, mas eu gosto desse equilíbrio porque ele me dá flexibilidade. Eu posso adequar meu nível de energia à lista de tarefas.
+
 > PRIORIZAÇÃO DE TAREFAS: Se você deseja transformaço em sua vida, dê prioridade às tarefas importantes, mas não urgentes.
+
 # Leadership
 
 1. DeRose - Não precisamos de algúem que não faça aquilo que lhe mandam, mas também não precisamos de alguém que só faça aquilo que lhe mandam.
