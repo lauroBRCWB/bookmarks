@@ -11,8 +11,9 @@ A curated list of things I really recommend people to see.
 2. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [[Nassim Taleb on Antifragility](https://youtu.be/MMBclvY_EMA?t=3830)]
 > * The heuristics (...) to achieve antifragility (...) is (sic) the barbell heuristic 
 > * (...) having a very risky portion of your portfolio and **very** minimal risk on the other side is a lot better than having medium risk
-
-3. Felipe Miranda - "Muito risco e muito seguro é melhor do que pouco risco."
+3. [[Felipe Miranda](http://www.empiricus.com.br)]
+> * "Muito risco e muito seguro é melhor do que pouco risco."
+> * "A bolsa é uma transferência de recursos do menos paciente para o mais paciente."
 
 # Relationships
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) O segredo do casamento [[link](https://www.youtube.com/watch?v=ptpjakx2S08)]
@@ -31,7 +32,7 @@ A curated list of things I really recommend people to see.
 ## TED Talk
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) [Your words may predict your future mental health](https://www.youtube.com/watch?v=uTL9tm7S1Io&feature=youtu.be)
 2. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) [Change your brain, change your life](https://www.youtube.com/watch?v=wc7CCLLDTaM&feature=youtu.be)
-3. [[How to live to be 100+](https://www.youtube.com/watch?v=ff40YiMmVkU)
+3. [[How to live to be 100+](https://www.youtube.com/watch?v=ff40YiMmVkU)]
 
 # Insights
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) Quebrar paradigma demonstra autoconfiança e é o ato de aceitar as manifestações femininas mesmo em nós mesmos
@@ -51,4 +52,5 @@ A curated list of things I really recommend people to see.
 
 # Leadership
 
-1. DeRose - Não precisamos de algúem que não faça aquilo que lhe mandam, mas também não precisamos de alguém que só faça aquilo que lhe mandam.
+1. [[https://www.metododerose.org/blogdoderose/](DeRose)]
+> * Não precisamos de algúem que não faça aquilo que lhe mandam, mas também não precisamos de alguém que só faça aquilo que lhe mandam.
