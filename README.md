@@ -55,6 +55,7 @@ A curated list of things I really recommend people to see.
 > * **on building better personality**: *after the occurrence of an event, we need to switch the blame from the inability to see an event coming to the failure to understand antifragility.*
 > * **where antifragility is found**: *some people in the nuclear industry seem to be among the rare ones to have gotten the point and taken it to its logical consequence. In the wake of the Fukushima disaster, instead of predicting failure and the probabilities of disaster, these intelligent nuclear firms are now aware that they should instead focus on exposure to failure.*
 > * **how to control fragility**: *(i) have things that don't fall apart, or even benefit, when we make a mistake; (ii) make things more robust to defects and forecast errors, or even exploit these errors, making limonade out of the lemons; (iii) time.*
+5. O que você faz quando se dá conta de que tem mais anos de vida do que a expectativa de vida dos seus pais?
 
 # Leadership
 
