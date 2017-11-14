@@ -14,6 +14,12 @@ A curated list of things I really recommend people to see.
 3. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) [Felipe Miranda](http://www.empiricus.com.br)
 > * "Muito risco e muito seguro é melhor do que pouco risco."
 > * "A bolsa é uma transferência de recursos do menos paciente para o mais paciente."
+4. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) [Felipe Miranda](http://www.empiricus.com.br)
+> Joseph Raffiee e Jie Feng fizeram um estudo interessante a respeito do empreendedorismo. Em “Shoud I quit my job? A Hybrid Path to Enterpreneurship”, fizeram a seguinte pergunta: quando se começa um novo negócio, é melhor manter ou abandonar seu emprego convencional?
+> Eles separaram dois grupos: os que mantiveram seus empregos de um lado, e os que abandonaram suas profissões convencionais no outro. Os primeiros claramente eram mais avessos a risco e inseguros, queriam sempre ter um plano B, desconfiavam de si mesmos e pareciam não estar tão convencidos da própria ideia. Os outros representavam o contrário.
+> A intuição talvez nos leve a acreditar que os mais bem sucedidos ao longo do tempo foram os convictos, aqueles que abandonaram tudo para lutar por um sonho, a perseguição implacável e inquestionável de uma tese, de uma ideia, de uma vocação.
+> O resultado encontrado na pesquisa desafia a intuição. Os empreendedores que mantiveram seus empregos apresentaram probabilidade 33% menor de fracassar frente aos outros.
+> A atividade empreendedora pertence aos sobreviventes, não aos heróis. Isso tem implicações importantes para você selecionar ações de empresas para comprar. Por exemplo: a maior parte dos empreendedores que se alavancaram muito quebrou ao longo do tempo.
 
 # Relationships
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) O segredo do casamento [link](https://www.youtube.com/watch?v=ptpjakx2S08)
