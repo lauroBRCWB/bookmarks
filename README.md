@@ -5,6 +5,7 @@ A curated list of things I really recommend people to see.
 3. [Health](#health) ( [TED Talks](#ted-talk) )
 4. [Insights](#insights)
 5. [Leadership](#leadership)
+6. [Tools](#tools)
 
 # Money
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) Paradox of higher returns with lower risks - Mark Spitznagel [link](https://www.youtube.com/watch?v=LyGtiiGBEc8)
@@ -69,3 +70,7 @@ A curated list of things I really recommend people to see.
 
 1. [https://www.metododerose.org/blogdoderose/](DeRose)
 > * Não precisamos de algúem que não faça aquilo que lhe mandam, mas também não precisamos de alguém que só faça aquilo que lhe mandam.
+
+# Tools
+1. [https://www.gapminder.org/tools/#_chart-type=bubbles](GapMinder)
+> * Excelente ferramenta para "Story telling", mostrando a evolução dos dados no tempo
