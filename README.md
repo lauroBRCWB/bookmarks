@@ -72,6 +72,7 @@ A curated list of things I really recommend people to see.
 
 1. [https://www.metododerose.org/blogdoderose/](DeRose)
 > * Não precisamos de algúem que não faça aquilo que lhe mandam, mas também não precisamos de alguém que só faça aquilo que lhe mandam.
+2. [https://www.eecs.yorku.ca/course_archive/2002-03/W/ENG2000/Nasa's_100_PM_Rules.html#Communications](100 rules for NASA projects)
 
 # Tools
 1. [https://www.gapminder.org/tools/#_chart-type=bubbles](GapMinder)
