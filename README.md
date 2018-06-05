@@ -8,7 +8,7 @@ A curated list of things I really recommend people to see.
 6. [Tools](#tools)
 
 # Money
-1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) Paradox of higher returns with lower risks - Mark Spitznagel [link](https://www.youtube.com/watch?v=LyGtiiGBEc8)
+1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [Paradox of higher returns with lower risks - Mark Spitznagel](https://www.youtube.com/watch?v=LyGtiiGBEc8)
 2. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [Nassim Taleb on Antifragility](https://youtu.be/MMBclvY_EMA?t=3830)
 > * The heuristics (...) to achieve antifragility (...) is (sic) the barbell heuristic 
 > * (...) having a very risky portion of your portfolio and **very** minimal risk on the other side is a lot better than having medium risk
@@ -21,6 +21,7 @@ A curated list of things I really recommend people to see.
 > A intuição talvez nos leve a acreditar que os mais bem sucedidos ao longo do tempo foram os convictos, aqueles que abandonaram tudo para lutar por um sonho, a perseguição implacável e inquestionável de uma tese, de uma ideia, de uma vocação.
 > O resultado encontrado na pesquisa desafia a intuição. Os empreendedores que mantiveram seus empregos apresentaram probabilidade 33% menor de fracassar frente aos outros.
 > A atividade empreendedora pertence aos sobreviventes, não aos heróis. Isso tem implicações importantes para você selecionar ações de empresas para comprar. Por exemplo: a maior parte dos empreendedores que se alavancaram muito quebrou ao longo do tempo.
+5. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [How can be the future of the cars. Road as a service. Cars negotiating with road companies etc.](https://www.youtube.com/watch?v=0KDRc23Vj7w&feature=youtu.be&t=1080)
 
 # Relationships
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) O segredo do casamento [link](https://www.youtube.com/watch?v=ptpjakx2S08)
