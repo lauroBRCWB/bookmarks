@@ -6,6 +6,7 @@ A curated list of things I really recommend people to see.
 4. [Insights](#insights)
 5. [Leadership](#leadership)
 6. [Tools](#tools)
+7. [IT](#IT)
 
 # Money
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [Paradox of higher returns with lower risks - Mark Spitznagel](https://www.youtube.com/watch?v=LyGtiiGBEc8)
@@ -22,6 +23,11 @@ A curated list of things I really recommend people to see.
 > O resultado encontrado na pesquisa desafia a intuição. Os empreendedores que mantiveram seus empregos apresentaram probabilidade 33% menor de fracassar frente aos outros.
 > A atividade empreendedora pertence aos sobreviventes, não aos heróis. Isso tem implicações importantes para você selecionar ações de empresas para comprar. Por exemplo: a maior parte dos empreendedores que se alavancaram muito quebrou ao longo do tempo.
 5. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [How can be the future of the cars. Road as a service. Cars negotiating with road companies etc.](https://www.youtube.com/watch?v=0KDRc23Vj7w&feature=youtu.be&t=1080)
+6. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) [Felipe Miranda](http://www.empiricus.com.br)
+> Falo do Sistema de Kelly, apresentado pelo físico John Larry Kelly em 1956, voltado justamente a indicar quanto de dinheiro você deve apostar em cada rodada, de modo a maximizar a taxa de crescimento de sua riqueza, controlando o nível de risco.
+> A abordagem é bastante simples. Para iniciá-la, você precisa saber quanto você se dispõe a perder em cada rodada da aposta (no caso, do investimento), uma proporção de seu capita total, e a atratividade da aposta. 
+> Você começa com R$ 100 e aposta R$ 1. Se perder a primeira rodada, reduz o montante investido a R$ 0,99; se ganhar, sobe para R$ 1,01. Com essa estratégia, você nunca zera seu patrimônio.
+> Essa estratégia é uma forma pragmática de se evitar a ruína. E, a cada período, você pode mudar de opinião, conforme a atratividade da aposta. Ela também é chamada de Estratégia Dinâmica, e detalhada por Nassim Taleb em seu livro Dynamic Hedging. Foi escrito há 20 anos, mas a sensação que tenho é a de que ninguém o leu.
 
 # Relationships
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) O segredo do casamento [link](https://www.youtube.com/watch?v=ptpjakx2S08)
@@ -68,6 +74,7 @@ A curated list of things I really recommend people to see.
 6. Felipe Miranda
 > * Quando a Orquestra Filarmônica de Londres escolheu as 50 maiores obras da música clássica, incluiu seis peças de Mozart, cinco de Beethoven e três de Bach. Ao longo de sua vida, Mozart produziu 600 obras, Beethoven compôs aproximadamente 650 e Bach ultrapassou a marca de mil. (...) Picasso tem 1.800 pinturas, 1.200 esculturas, 2.800 peças de cerâmica e 12 mil desenhos - só uma pequena fração de sua produção foi recebida de maneira calorosa. (...) Bom, acho que você entendeu. Mesmo os maiores gênios acumulam fracassos pontuais. O sucesso é alcançado por tentativa e erro. Produz-se muito, expõe-se a situações de altos ganhos potenciais e, em algum momento, você surfa um grande benefício se dispõe de algum talento. (...) Note que tal exposição precisa ser convexa - conforme o cenário melhora, seus ganhos aumentam mais do que proporcionalmente. Qual o custo e o benefício de se produzir uma obra de arte? Na pior das hipóteses, incorre-se no custo do tempo de produção e de material para sua realização. No melhor dos casos, o autor fica multimilionário. Há uma assimetria interessante aqui. (...) **O mais curioso, porém, não é que mesmo os maiores gênios registram uma série de erros e fracassos. O mais interessante é que, mesmo essas pessoas altamente sensíveis e brilhantes, encontram dificuldade em antever quais de suas obras serão sucesso e quais fracassarão**. (...) Beethoven, conhecido por sua autocrítica perspicaz, ao avaliar 70 de suas composições, incorreu em 15 falsos positivos, projetando sucessos que provaram-se fracassos lá na frente. Além disso, encarou oito falsos negativos, criticando obras posteriormente aclamadas. A alta taxa de erro aconteceu mesmo depois do artista já conhecer a reação do público.
 7. [Meeting patterns over time - Gabriel Schon](https://www.linkedin.com/pulse/did-we-already-meet-today-gabriel-schon)
+8. "Onde tem espaço, quem é espaçoso, se dá bem.
 
 # Leadership
 
@@ -79,3 +86,13 @@ A curated list of things I really recommend people to see.
 # Tools
 1. [GapMinder](https://www.gapminder.org/tools/#_chart-type=bubbles)
 > * Excelente ferramenta para "Story telling", mostrando a evolução dos dados no tempo
+
+# IT
+1. [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html) or [article](Articles/Remote versus Co-located Work)
+> * Each team should be full-stack and responsible for taking a component from idea right through to production. Don't divide by layer (frontend/backend/data) nor by activity (analysis/development/testing).
+> * different distribution patterns for teams, not just a simple remote versus co-located dichotomy
+> * Most groups of people will be more effective when working co-located due to the richer communications they have.
+> * you will often get a more effective team by embracing some form of distributed model because it will widen the talent pool of people you can get
+> * Multi-site teams have a tendency to form an us-and-them attitude to the other sites. You can reduce this by using regular contact visits and ambassadors.
+> * Co-location also introduces a huge amount of out-of-band conversations which improves personal relationships. The result is a virtuous cycle of improved relationships and communication. Since communication is such a central part of software development, this is a big impact on productivity.
+> * Pay attention to communication patterns
