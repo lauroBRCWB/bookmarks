@@ -89,6 +89,8 @@ A curated list of things I really recommend people to see.
 > * Não precisamos de algúem que não faça aquilo que lhe mandam, mas também não precisamos de alguém que só faça aquilo que lhe mandam.
 2. [100 rules for NASA projects](https://www.eecs.yorku.ca/course_archive/2002-03/W/ENG2000/Nasa's_100_PM_Rules.html)
 3. Decision making model - See Articles/Decision making model
+4. "At one point, I asked him which of his twenty-six books he was most proud of, to which Drucker, then 86, replied: “The next one!” He wrote ten more." (from "The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials)" by Peter F. Drucker, Jim Collins)
+5. "What made them all effective is that they followed the same eight practices: • They asked, “What needs to be done?” • They asked, “What is right for the enterprise?” • They developed action plans. • They took responsibility for decisions. • They took responsibility for communicating. • They were focused on opportunities rather than problems. • They ran productive meetings. • They thought and said “we” rather than “I.” The first two practices gave them the knowledge they needed. The next four helped them convert this knowledge into effective action. The last two ensured that the whole organization felt responsible and accountable." (from "The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials)" by Peter F. Drucker, Jim Collins)
 
 # Tools
 1. [GapMinder](https://www.gapminder.org/tools/#_chart-type=bubbles)
