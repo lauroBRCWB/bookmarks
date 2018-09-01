@@ -7,6 +7,7 @@ A curated list of things I really recommend people to see.
 5. [Leadership](#leadership)
 6. [Tools](#tools)
 7. [IT](#IT)
+9. [Technology](#Technology)
 
 # Money
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [Paradox of higher returns with lower risks - Mark Spitznagel](https://www.youtube.com/watch?v=LyGtiiGBEc8)
@@ -105,3 +106,7 @@ A curated list of things I really recommend people to see.
 > * Multi-site teams have a tendency to form an us-and-them attitude to the other sites. You can reduce this by using regular contact visits and ambassadors.
 > * Co-location also introduces a huge amount of out-of-band conversations which improves personal relationships. The result is a virtuous cycle of improved relationships and communication. Since communication is such a central part of software development, this is a big impact on productivity.
 > * Pay attention to communication patterns
+
+# Technology
+1. [Why analysts make bad predictions?](https://betanews.com/2014/11/03/why-are-analyst-predictions-always-so-wrong/)
+> * Exponencialidade versus linearidade: nosso raciocínio sempre tenta encaixar coisas de forma linear, mas o mundo acontece de forma exponencial e não linear. Outro bom link: [Iridiuim moment](http://innovationexcellence.com/blog/2015/09/12/an-iridium-moment-is-a-strategic-blunder-that-can-kill-your-company/)
