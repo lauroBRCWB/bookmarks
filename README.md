@@ -83,6 +83,10 @@ A curated list of things I really recommend people to see.
 > * not about trumpeting your good qualities, but making the other person feel good about himself. Real charisma makes the other person feel important; when they finish an interaction with you, they feel better about themselves than they did before.
 > * When you think of yourself as the host in every situation, figuring out what to do to put others at ease will come more naturally.
 > * Anticipate needs. Giving someone something they might need without them having to ask shows that you’re thinking about them. "I put together this graph for you. I thought it might be helpful for your presentation tomorrow." "I knew you’d be up all night studying, so I brought you this pack of 5-hour Energy." "It’s getting cold out here, would you like to wear my jacket?"
+11. Dumbledore's explanation on the sorcere's stone on how could Harry get it...
+> * **Harry**: How is that I got the stone, Sr?
+> * **Dumbledore**: Ah, you see... Only a person who wanted to find the stone, but not use it would be able to get it. That is one of my more brilliant ideas.
+> * That is indeed brilliant. And if you extrapolate that to the "power", this applies in a very interesting way.
 
 # Leadership
 
