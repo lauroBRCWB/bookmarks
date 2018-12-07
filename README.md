@@ -87,6 +87,7 @@ A curated list of things I really recommend people to see.
 > * **Harry**: How is that I got the stone, Sr?
 > * **Dumbledore**: Ah, you see... Only a person who wanted to find the stone, but not use it would be able to get it. That is one of my more brilliant ideas.
 > * That is indeed brilliant. And if you extrapolate that to the "power", this applies in a very interesting way.
+12. The best way to say no, is to say a strong conditionally yes. For example, you bring all your argumentation why it's a no. Then you say that if the other person really needs you to say yes, you show to them the consequences of doing so. Then, they will find a hard time to overrule you.
 
 # Leadership
 
