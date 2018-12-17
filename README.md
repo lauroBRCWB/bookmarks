@@ -89,6 +89,7 @@ A curated list of things I really recommend people to see.
 > * That is indeed brilliant. And if you extrapolate that to the "power", this applies in a very interesting way.
 12. The best way to say no, is to say a strong conditionally yes. For example, you bring all your argumentation why it's a no. Then you say that if the other person really needs you to say yes, you show to them the consequences of doing so. Then, they will find a hard time to overrule you.
 13. The McGurk Effect and its relevance that we should always try to remove the noise so that we can take knowledge out of the information.
+14. [Dunning-Kruger effect](https://www.youtube.com/watch?v=pOLmD_WVY-E&t=2s): Low-performers cannot see themselves as low-performers. Experts think everyone is as expert as they are. The reality catch is really difficult for people: 
 
 # Leadership
 
