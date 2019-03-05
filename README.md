@@ -133,4 +133,4 @@ A curated list of things I really recommend people to see.
 > * Exponencialidade versus linearidade: nosso raciocínio sempre tenta encaixar coisas de forma linear, mas o mundo acontece de forma exponencial e não linear. Outro bom link: [Iridiuim moment](http://innovationexcellence.com/blog/2015/09/12/an-iridium-moment-is-a-strategic-blunder-that-can-kill-your-company/)
 
 ## Digital Transformation
-1. The only way to be ready for the digital transformation is to be ready to change fast.
+1. The only way to be ready for the digital transformation is to be fast to change.
