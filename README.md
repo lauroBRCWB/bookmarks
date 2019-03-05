@@ -7,7 +7,8 @@ A curated list of things I really recommend people to see.
 5. [Leadership](#leadership)
 6. [Tools](#tools)
 7. [IT](#IT)
-9. [Technology](#Technology)
+8. [Technology](#Technology)
+> a. [Digital Transformation](#digital-transformation)
 
 # Money
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [Paradox of higher returns with lower risks - Mark Spitznagel](https://www.youtube.com/watch?v=LyGtiiGBEc8)
@@ -130,3 +131,6 @@ A curated list of things I really recommend people to see.
 # Technology
 1. [Why analysts make bad predictions?](https://betanews.com/2014/11/03/why-are-analyst-predictions-always-so-wrong/)
 > * Exponencialidade versus linearidade: nosso raciocínio sempre tenta encaixar coisas de forma linear, mas o mundo acontece de forma exponencial e não linear. Outro bom link: [Iridiuim moment](http://innovationexcellence.com/blog/2015/09/12/an-iridium-moment-is-a-strategic-blunder-that-can-kill-your-company/)
+
+## Digital Transformation
+1. The only way to be ready for the digital transformation is to be ready to change fast.
