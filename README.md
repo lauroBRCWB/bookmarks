@@ -30,6 +30,7 @@ A curated list of things I really recommend people to see.
 > A abordagem é bastante simples. Para iniciá-la, você precisa saber quanto você se dispõe a perder em cada rodada da aposta (no caso, do investimento), uma proporção de seu capita total, e a atratividade da aposta. 
 > Você começa com R$ 100 e aposta R$ 1. Se perder a primeira rodada, reduz o montante investido a R$ 0,99; se ganhar, sobe para R$ 1,01. Com essa estratégia, você nunca zera seu patrimônio.
 > Essa estratégia é uma forma pragmática de se evitar a ruína. E, a cada período, você pode mudar de opinião, conforme a atratividade da aposta. Ela também é chamada de Estratégia Dinâmica, e detalhada por Nassim Taleb em seu livro Dynamic Hedging. Foi escrito há 20 anos, mas a sensação que tenho é a de que ninguém o leu.
+7. ![How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 
 # Relationships
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) O segredo do casamento [link](https://www.youtube.com/watch?v=ptpjakx2S08)
