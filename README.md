@@ -51,6 +51,8 @@ A curated list of things I really recommend people to see.
 3. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [How to live to be 100+](https://www.youtube.com/watch?v=ff40YiMmVkU)
 4. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [Ray Dalio - How to build a company where the best ideas win](https://www.ted.com/talks/ray_dalio_how_to_build_a_company_where_the_best_ideas_win)
 5. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [Could your language affect your ability to save money?](https://www.ted.com/talks/keith_chen_could_your_language_affect_your_ability_to_save_money)
+6. ![](https://www.youtube.com/watch?v=1XDpa2HLXV0) [Beautiful minds are free from fear - Robert Grant](https://www.youtube.com/watch?v=1XDpa2HLXV0)
+7. ![](https://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify?language=en) [As work gets more complex, 6 rules to simplify - Yves Morieux](https://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify?language=en)
 
 # Insights
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) Quebrar paradigma demonstra autoconfiança e é o ato de aceitar as manifestações femininas mesmo em nós mesmos
