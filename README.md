@@ -31,9 +31,10 @@ A curated list of things I really recommend people to see.
 > Você começa com R$ 100 e aposta R$ 1. Se perder a primeira rodada, reduz o montante investido a R$ 0,99; se ganhar, sobe para R$ 1,01. Com essa estratégia, você nunca zera seu patrimônio.
 > Essa estratégia é uma forma pragmática de se evitar a ruína. E, a cada período, você pode mudar de opinião, conforme a atratividade da aposta. Ela também é chamada de Estratégia Dinâmica, e detalhada por Nassim Taleb em seu livro Dynamic Hedging. Foi escrito há 20 anos, mas a sensação que tenho é a de que ninguém o leu.
 7. ![How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+8. [Um dia o correntista vai acordar e vai ao banco dizer que quer tirar seu dinheiro. Os primeiros ¤ 50 mil ou US$ 50 mil ele leva. O resto vai virar um papel de 100 anos, que pode ser vendido no mercado secundário. Neste dia longínquo, haverá um QE elevado à enésima potência. Todo mundo vai perder: quem tem ouro, terra, bitcoin. Mas a questão é: quem vai ganhar ou perder menos? O dinheiro vai perder quase tudo, como sempre foi na história da humanidade, certo?](https://economia.estadao.com.br/noticias/geral,economia-mundial-pode-resultar-em-um-grande-plano-collor,70002991000)
 
 # Relationships
-1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) O segredo do casamento [link](https://www.youtube.com/watch?v=ptpjakx2S08)
+1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) O segredo do casamento [link](https://www.youtube.com/watch?v=ptpjakx2S08) 
 
 # Health
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) Como lavar legumes, vegetais e frutas evitando disseminação dos agrotóxicos [ao mergulhá-los em água na temperatura ambiente, os agrotóxicos presentes nas superfícies são absorvidos, juntamente com a água, para dentro] - [link](https://www.youtube.com/watch?v=hLZ9Dloc9U8)
