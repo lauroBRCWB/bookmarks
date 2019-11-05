@@ -133,6 +133,10 @@ A curated list of things I really recommend people to see.
 > * Multi-site teams have a tendency to form an us-and-them attitude to the other sites. You can reduce this by using regular contact visits and ambassadors.
 > * Co-location also introduces a huge amount of out-of-band conversations which improves personal relationships. The result is a virtuous cycle of improved relationships and communication. Since communication is such a central part of software development, this is a big impact on productivity.
 > * Pay attention to communication patterns
+2. [Dizer não sei - Soros](https://www.verdeasset.com.br/nao-sei-soros-stuhlberger-e-a-humildade-num-mundo-de-juros-negativos/)
+> * Quem estuda gestão de portfolio sabe que o ponto central de nossa profissão é o da tomada de decisão em condições de incerteza. Nossa missão é sempre expandir os limites do nosso conhecimento, melhorar, crescer, evoluir. Fazemos escolhas com base em um conhecimento que muda a cada segundo. No momento que deixamos de aprender, nos tornamos obsoletos.
+> * Por outro lado, não admitir que existe um limite, ou pior ainda, desconhecer que o mesmo existe, já custou a carreira de muita gente. O Buffett fala muito do conceito de círculo de competência. Da importância de ter muito claro onde estão as fronteiras do nosso conhecimento. O problema é que conhecimento não é uma variável binária; ou temos ou não temos. No mercado financeiro, a exemplo da frase do Mark Twain, é bem mais fácil perder dinheiro com aquilo que a gente acha que sabe, com o conhecimento superficial ou “pseudoconhecimento”.
+> * Nunca é demais lembrar: informação e conhecimento não são a mesma coisa. Essa foi uma das mudanças claras ao longo dos últimos 20 anos. Dada a evolução da tecnologia e disseminação das plataformas de dados, os retornos simplesmente da informação tendem a zero. Já a perspectiva de retorno do conhecimento, definido como raciocínio e tomada de decisão aplicados à informação, ainda permanece relevante.
 
 # Technology
 1. [Why analysts make bad predictions?](https://betanews.com/2014/11/03/why-are-analyst-predictions-always-so-wrong/)
