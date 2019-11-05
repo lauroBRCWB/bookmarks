@@ -101,8 +101,7 @@ A curated list of things I really recommend people to see.
 16. Felipe Miranda - "Se alguém lhe disser que uma pessoa qualquer falou mal de você, não se incomode em dar desculpas ou defender-se. Apenas sorria e responda: ‘Eu suspeito que essa pessoa não conheça todos meus defeitos. Caso contrário, não teria mencionado apenas esse’."
 17. Nunca falar mal. Ainda mais dos predecessores. Por questão ética, mas também pois pode demonstrar enorme falta de conhecimento de causa ou histórica. Além do que não ajuda em nada a evolução das coisas.
 
-# Best practices
-1. Write reminders of your priorities and reflect on how you are performing in them. You can use the same practice for nearly anything: goals, projects, skill development etc.
+# [Best practices](https://github.com/laurovalente/bookmarks/blob/master/Best%20practices.md)
 
 # Leadership
 
