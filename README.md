@@ -117,6 +117,7 @@ A curated list of things I really recommend people to see.
 > * If you have too many options, get the best of it now and then repeat.
 > * Believe in what you are doing.
 > * Feel like a bird. You can fly to anywhere you want.
+27. Weeknesses are only weeknesses when you hide them
 
 # [Best practices](https://github.com/laurovalente/bookmarks/blob/master/Best%20practices.md)
 
@@ -143,6 +144,7 @@ A curated list of things I really recommend people to see.
 10. "“What do I do that wastes your time without contributing to your effectiveness?” To ask this question, and to ask it without being afraid of the truth, is a mark of the effective executive." (from "The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials)" by Peter F. Drucker, Jim Collins)
 11. Pride is a trap. It makes you blind, decreases the energy to succeed, thus turns you poor in the long term. - Lauro
 12. Every obstacle is an opportunity to leave competition behind
+13. "why working home nights is so popular is actually its worst feature: It enables an executive to avoid tackling his time and its management during the day." (from "The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials)" by Peter F. Drucker, Jim Collins)
 
 ## Videos on Leadership
 1. [Infinite game Simon sinek](https://www.youtube.com/watch?v=3vX2iVIJMFQ)
@@ -166,6 +168,7 @@ A curated list of things I really recommend people to see.
 > * Quem estuda gestão de portfolio sabe que o ponto central de nossa profissão é o da tomada de decisão em condições de incerteza. Nossa missão é sempre expandir os limites do nosso conhecimento, melhorar, crescer, evoluir. Fazemos escolhas com base em um conhecimento que muda a cada segundo. No momento que deixamos de aprender, nos tornamos obsoletos.
 > * Por outro lado, não admitir que existe um limite, ou pior ainda, desconhecer que o mesmo existe, já custou a carreira de muita gente. O Buffett fala muito do conceito de círculo de competência. Da importância de ter muito claro onde estão as fronteiras do nosso conhecimento. O problema é que conhecimento não é uma variável binária; ou temos ou não temos. No mercado financeiro, a exemplo da frase do Mark Twain, é bem mais fácil perder dinheiro com aquilo que a gente acha que sabe, com o conhecimento superficial ou “pseudoconhecimento”.
 > * Nunca é demais lembrar: informação e conhecimento não são a mesma coisa. Essa foi uma das mudanças claras ao longo dos últimos 20 anos. Dada a evolução da tecnologia e disseminação das plataformas de dados, os retornos simplesmente da informação tendem a zero. Já a perspectiva de retorno do conhecimento, definido como raciocínio e tomada de decisão aplicados à informação, ainda permanece relevante.
+3. Agility versus speed competition
 
 # Technology
 1. [Why analysts make bad predictions?](https://betanews.com/2014/11/03/why-are-analyst-predictions-always-so-wrong/)
