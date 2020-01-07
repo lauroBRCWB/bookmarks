@@ -32,6 +32,7 @@ A curated list of things I really recommend people to see.
 > Essa estratégia é uma forma pragmática de se evitar a ruína. E, a cada período, você pode mudar de opinião, conforme a atratividade da aposta. Ela também é chamada de Estratégia Dinâmica, e detalhada por Nassim Taleb em seu livro Dynamic Hedging. Foi escrito há 20 anos, mas a sensação que tenho é a de que ninguém o leu.
 7. ![How The Economic Machine Works by Ray Dalio](https://www.youtube.com/watch?v=PHe0bXAIuk0)
 8. [Um dia o correntista vai acordar e vai ao banco dizer que quer tirar seu dinheiro. Os primeiros ¤ 50 mil ou US$ 50 mil ele leva. O resto vai virar um papel de 100 anos, que pode ser vendido no mercado secundário. Neste dia longínquo, haverá um QE elevado à enésima potência. Todo mundo vai perder: quem tem ouro, terra, bitcoin. Mas a questão é: quem vai ganhar ou perder menos? O dinheiro vai perder quase tudo, como sempre foi na história da humanidade, certo?](https://economia.estadao.com.br/noticias/geral,economia-mundial-pode-resultar-em-um-grande-plano-collor,70002991000)
+9. "Making a handful of good uncorrelated bets that are balanced and leveraged well is the surest way of having a lot of upside without being exposed to unacceptable downside." (from "Principles: Life and Work" by Ray Dalio)
 
 # Relationships
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) O segredo do casamento [link](https://www.youtube.com/watch?v=ptpjakx2S08) 
@@ -102,6 +103,20 @@ A curated list of things I really recommend people to see.
 18. True equality is equality in probability - Nassim Taleb
 19. Be excessively human. We have animal instincts, we must enable to use them. And ensure the human thinking, instead of blocking the animal instincts, can help to tailor the instinct towards the goal in a better and improved way. We need to be excessively human when being radical transparent. You feel, you understand and then you express the feeling to your interlocutor, ensuring to not hurt his feelings. We must be exessively human to enable feeling and showing it respectfully.
 20. Although the company is in the idea managed through virtual meetings most of times, the reality is that it is managed in the corridors not in the virtual world.
+21. On personal continuous improvement: "This constant drive toward learning and improvement makes getting better innately enjoyable and getting better fast exhilarating. Though most people think that they are striving to get the things (toys, bigger houses, money, status, etc.) that will make them happy, for most people those things don’t supply anywhere near the long-term satisfaction that getting better at something does.20 Once we get the things we are striving for, we rarely remain satisfied with them. The things are just the bait. Chasing after them forces us to evolve, and it is the evolution and not the rewards themselves that matters to us and to those around us. This means that for most people success is struggling and evolving as effectively as possible, i.e., learning rapidly about oneself and one’s environment, and then changing to improve." (from "Principles: Life and Work" by Ray Dalio)
+22. "The marginal benefits of moving from a shortage to an abundance of anything decline." (from "Principles: Life and Work" by Ray Dalio). Eventually, you reach a point where you have almost 100% of possible results. 
+23. "If you can develop a reflexive reaction to psychic pain that causes you to reflect on it rather than avoid it, it will lead to your rapid learning/evolving." (from "Principles: Life and Work" by Ray Dalio)
+24. "I find this is just as true for relationships as it is for investments—wise people stick with sound fundamentals through the ups and downs, while flighty people react emotionally to how things feel, jumping into things when they’re hot and abandoning them when they’re not." (from "Principles: Life and Work" by Ray Dalio)
+25. "This culture of bringing problems and disagreements to the surface generated a lot of discomfort and conflict, especially when it came to exploring people’s weaknesses. Before long, things came to a boil." (from "Principles: Life and Work" by Ray Dalio)
+26. From meeting with Nicolas Waern, who went from working 60h a week to 40h: 
+> * It’s a matter of prioritization. Decide right now.
+> * Learn to prioritize good
+> * Work is never going to stop
+> * Life is a marathon, not a sprint.
+> * Fail fast. Fail a lot, but fast.
+> * If you have too many options, get the best of it now and then repeat.
+> * Believe in what you are doing.
+> * Feel like a bird. You can fly to anywhere you want.
 
 # [Best practices](https://github.com/laurovalente/bookmarks/blob/master/Best%20practices.md)
 
@@ -127,6 +142,7 @@ A curated list of things I really recommend people to see.
 9. "“Delegation” as the term is customarily used is a misunderstanding—is indeed misdirection. But getting rid of anything that can be done by somebody else so that one does not have to delegate but can really get to one’s own work—that is a major improvement in effectiveness." (from "The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials)" by Peter F. Drucker, Jim Collins)
 10. "“What do I do that wastes your time without contributing to your effectiveness?” To ask this question, and to ask it without being afraid of the truth, is a mark of the effective executive." (from "The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials)" by Peter F. Drucker, Jim Collins)
 11. Pride is a trap. It makes you blind, decreases the energy to succeed, thus turns you poor in the long term. - Lauro
+12. Every obstacle is an opportunity to leave competition behind
 
 ## Videos on Leadership
 1. [Infinite game Simon sinek](https://www.youtube.com/watch?v=3vX2iVIJMFQ)
@@ -158,3 +174,6 @@ A curated list of things I really recommend people to see.
 ## Digital Transformation
 1. The only way to be ready for the digital transformation is to be fast to change.
 2. "It’s even more important that decision making be evidence-based and logical when groups of people are working together. If it’s not, the process will inevitably be dominated by the most powerful rather than the most insightful participants, which is not only unfair but suboptimal. Successful organizations have cultures in which evidence-based decision making is the norm rather than the exception." (from "Principles: Life and Work" by Ray Dalio)
+3. "McDonald’s had conceived of a new product, the Chicken McNugget, but they were reluctant to bring it to market because of their concern that chicken prices might rise and squeeze their profit margins. Chicken producers like Lane wouldn’t agree to sell to them at a fixed price because they were worried that their costs would go up and they would be squeezed. As I thought about the problem, it occurred to me that in economic terms a chicken can be seen as a simple machine consisting of a chick plus its feed. The most volatile cost that the chicken producer needed to worry about was feed prices. I showed Lane how to use a mix of corn and soymeal futures to lock in costs so they could quote a fixed price to McDonald’s. Having greatly reduced its price risk, McDonald’s introduced the McNugget in 1983. I felt great about helping make that happen." (from "Principles: Life and Work" by Ray Dalio)
+4. "I tended to hire people just out of school who didn’t have much experience but were smart, determined, and committed to the mission of making the company great." (from "Principles: Life and Work" by Ray Dalio). Similar to what Jorge Paulo Lehman once called PSD – poor, smart, with a deep desire to get rich. 
+5. Ruben Seoane (@rseoane_) tweeted at 7:00 pm on Sun, Nov 17, 2019: ["Moore's Law for Software: What 18 months ago took 2 or more people to build, it can now be made by one."](https://twitter.com/rseoane_/status/1196125853458911234?s=03)
