@@ -54,7 +54,6 @@ A curated list of things I really recommend people to see.
 4. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [Ray Dalio - How to build a company where the best ideas win](https://www.ted.com/talks/ray_dalio_how_to_build_a_company_where_the_best_ideas_win)
 5. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [Could your language affect your ability to save money?](https://www.ted.com/talks/keith_chen_could_your_language_affect_your_ability_to_save_money)
 6. ![](https://www.youtube.com/watch?v=1XDpa2HLXV0) [Beautiful minds are free from fear - Robert Grant](https://www.youtube.com/watch?v=1XDpa2HLXV0)
-7. ![](https://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify?language=en) [As work gets more complex, 6 rules to simplify - Yves Morieux](https://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify?language=en)
 
 # Insights
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) Quebrar paradigma demonstra autoconfiança e é o ato de aceitar as manifestações femininas mesmo em nós mesmos
@@ -127,11 +126,12 @@ A curated list of things I really recommend people to see.
 9. "There has been for years a great deal of talk about “delegation” in management. Every manager, whatever the organization—business, government, university, or armed service—has been exhorted to be a better “delegator.” In fact, most managers in large organizations have themselves given this sermon and more than once. I have yet to see any results from all this preaching. The reason why no one listens is simple: As usually presented, delegation makes little sense. If it means that somebody else ought to do part of “my work,” it is wrong. One is paid for doing one’s own work. And if it implies, as the usual sermon does, that the laziest manager is the best manager, it is not only nonsense; it is immoral." (from "The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials)" by Peter F. Drucker, Jim Collins)
 9. "“Delegation” as the term is customarily used is a misunderstanding—is indeed misdirection. But getting rid of anything that can be done by somebody else so that one does not have to delegate but can really get to one’s own work—that is a major improvement in effectiveness." (from "The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials)" by Peter F. Drucker, Jim Collins)
 10. "“What do I do that wastes your time without contributing to your effectiveness?” To ask this question, and to ask it without being afraid of the truth, is a mark of the effective executive." (from "The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials)" by Peter F. Drucker, Jim Collins)
-
+11. Pride is a trap. It makes you blind, decreases the energy to succeed, thus turns you poor in the long term. - Lauro
 
 ## Videos on Leadership
 1. [Infinite game Simon sinek](https://www.youtube.com/watch?v=3vX2iVIJMFQ)
 2. [Speed of trust - sausage man trusting people to make their own exchange](https://www.youtube.com/watch?v=HjMNWr_qqfM)
+3. ![](https://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify?language=en) [As work gets more complex, 6 rules to simplify - Yves Morieux](https://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify?language=en)
 
 # Tools
 1. [GapMinder](https://www.gapminder.org/tools/#_chart-type=bubbles)
