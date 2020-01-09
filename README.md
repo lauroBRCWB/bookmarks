@@ -169,6 +169,7 @@ A curated list of things I really recommend people to see.
 > * Por outro lado, não admitir que existe um limite, ou pior ainda, desconhecer que o mesmo existe, já custou a carreira de muita gente. O Buffett fala muito do conceito de círculo de competência. Da importância de ter muito claro onde estão as fronteiras do nosso conhecimento. O problema é que conhecimento não é uma variável binária; ou temos ou não temos. No mercado financeiro, a exemplo da frase do Mark Twain, é bem mais fácil perder dinheiro com aquilo que a gente acha que sabe, com o conhecimento superficial ou “pseudoconhecimento”.
 > * Nunca é demais lembrar: informação e conhecimento não são a mesma coisa. Essa foi uma das mudanças claras ao longo dos últimos 20 anos. Dada a evolução da tecnologia e disseminação das plataformas de dados, os retornos simplesmente da informação tendem a zero. Já a perspectiva de retorno do conhecimento, definido como raciocínio e tomada de decisão aplicados à informação, ainda permanece relevante.
 3. Agility versus speed competition
+4. Power of diversification in portfolio management - choose 15 to 20 good investment opportunities and invest on them. This reduces dramatically the return to risk. [Holy grail of Ray Dalio - Diversification](https://www.youtube.com/watch?v=Nu4lHaSh7D4&t=18s)
 
 # Technology
 1. [Why analysts make bad predictions?](https://betanews.com/2014/11/03/why-are-analyst-predictions-always-so-wrong/)
