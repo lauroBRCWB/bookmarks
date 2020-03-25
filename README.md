@@ -119,6 +119,7 @@ A curated list of things I really recommend people to see.
 > * Believe in what you are doing.
 > * Feel like a bird. You can fly to anywhere you want.
 27. Weeknesses are only weeknesses when you hide them
+28. Keep it cool, delivering outstanding work and you will succeed. Proactive people live up to their values and do not bend depending on circumstances. Loyalty is another one of my values. 
 
 # [Best practices](https://github.com/laurovalente/bookmarks/blob/master/Best%20practices.md)
 
