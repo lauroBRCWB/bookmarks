@@ -3,12 +3,13 @@
 
 ## Prioritized
 
- - [ ] https://www.bridgewater.com/ 
+ - [Google Investors letters](https://abc.xyz/investor/)
+ - [Bridge water](https://www.bridgewater.com/)
    - [ ] https://www.bridgewater.com/research-library/how-the-economic-machine-works/
    - [ ] https://www.bridgewater.com/research-library/daily-observations/
    - [ ] https://www.bridgewater.com/research-library/the-all-weather-strategy/
    - [ ] https://www.bridgewater.com/research-library/risk-parity/
- - [ ] http://www.verdeasset.com.br/conteudo/
+ - [Verde Asset](http://www.verdeasset.com.br/conteudo/)
 
 ## Less prioritized
 
