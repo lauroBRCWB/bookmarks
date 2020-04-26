@@ -9,6 +9,7 @@
    - [ ] https://www.bridgewater.com/research-library/daily-observations/
    - [ ] https://www.bridgewater.com/research-library/the-all-weather-strategy/
    - [ ] https://www.bridgewater.com/research-library/risk-parity/
+ - [Universa - Risk Mitigation](http://www.universa.net/riskmitigation.html)
  - [Verde Asset](http://www.verdeasset.com.br/conteudo/)
 
 ## Less prioritized
