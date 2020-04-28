@@ -34,6 +34,9 @@ A curated list of things I really recommend people to see.
 8. [Um dia o correntista vai acordar e vai ao banco dizer que quer tirar seu dinheiro. Os primeiros ¤ 50 mil ou US$ 50 mil ele leva. O resto vai virar um papel de 100 anos, que pode ser vendido no mercado secundário. Neste dia longínquo, haverá um QE elevado à enésima potência. Todo mundo vai perder: quem tem ouro, terra, bitcoin. Mas a questão é: quem vai ganhar ou perder menos? O dinheiro vai perder quase tudo, como sempre foi na história da humanidade, certo?](https://economia.estadao.com.br/noticias/geral,economia-mundial-pode-resultar-em-um-grande-plano-collor,70002991000)
 9. "Making a handful of good uncorrelated bets that are balanced and leveraged well is the surest way of having a lot of upside without being exposed to unacceptable downside." (from "Principles: Life and Work" by Ray Dalio)
 
+# Business
+1. When companies are slow, it is typically a sign that their costs are in the wrong place. Jeffrey R. Immelt
+
 # Relationships
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) O segredo do casamento [link](https://www.youtube.com/watch?v=ptpjakx2S08) 
 
