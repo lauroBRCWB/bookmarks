@@ -12,6 +12,8 @@
  - [Universa - Risk Mitigation](http://www.universa.net/riskmitigation.html)
  - [Verde Asset](http://www.verdeasset.com.br/conteudo/)
  - [SPX Capital](https://www.spxcapital.com/pt/quem-somos/relatorios/)
+ - [World Economic Forum](https://www.weforum.org/)
+ - [OECD](https://www.oecd.org/)
 
 ## Less prioritized
 
