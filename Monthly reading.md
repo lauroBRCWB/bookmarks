@@ -11,6 +11,7 @@
    - [ ] https://www.bridgewater.com/research-library/risk-parity/
  - [Universa - Risk Mitigation](http://www.universa.net/riskmitigation.html)
  - [Verde Asset](http://www.verdeasset.com.br/conteudo/)
+ - [SPX Capital](https://www.spxcapital.com/pt/quem-somos/relatorios/)
 
 ## Less prioritized
 
