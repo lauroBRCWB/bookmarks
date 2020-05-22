@@ -157,6 +157,7 @@ A curated list of things I really recommend people to see.
 1. [Infinite game Simon sinek](https://www.youtube.com/watch?v=3vX2iVIJMFQ)
 2. [Speed of trust - sausage man trusting people to make their own exchange](https://www.youtube.com/watch?v=HjMNWr_qqfM)
 3. ![](https://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify?language=en) [As work gets more complex, 6 rules to simplify - Yves Morieux](https://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify?language=en)
+4. [Trust is the most important asset to Amazon - Jeff Bezos](https://www.youtube.com/watch?v=mcGJeAC1MyA)
 
 # Tools
 1. [GapMinder](https://www.gapminder.org/tools/#_chart-type=bubbles)
