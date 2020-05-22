@@ -14,6 +14,7 @@
  - [SPX Capital](https://www.spxcapital.com/pt/quem-somos/relatorios/)
  - [World Economic Forum](https://www.weforum.org/)
  - [OECD](https://www.oecd.org/)
+ - [Edelman Trust Barometer](https://www.edelman.com/trustbarometer)
 
 ## Less prioritized
 
