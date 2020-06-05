@@ -190,3 +190,4 @@ A curated list of things I really recommend people to see.
 4. "I tended to hire people just out of school who didn’t have much experience but were smart, determined, and committed to the mission of making the company great." (from "Principles: Life and Work" by Ray Dalio). Similar to what Jorge Paulo Lehman once called PSD – poor, smart, with a deep desire to get rich. 
 5. Ruben Seoane (@rseoane_) tweeted at 7:00 pm on Sun, Nov 17, 2019: ["Moore's Law for Software: What 18 months ago took 2 or more people to build, it can now be made by one."](https://twitter.com/rseoane_/status/1196125853458911234?s=03)
 6. [Automotive 4.0 the future of Growth and Productivity by Henrik von Scheel](https://www.youtube.com/watch?v=Ut-1E2b2-PI)
+7. [Digitalization enabling to clean oceans](https://www.youtube.com/watch?v=DX6Uidpg3VM) - Nylon nets becoming recycled carpets
