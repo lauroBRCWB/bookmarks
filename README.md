@@ -9,6 +9,7 @@ A curated list of things I really recommend people to see.
 7. [IT](#IT)
 8. [Technology](#Technology)
 > a. [Digital Transformation](#digital-transformation)
+9. [Disruption](#Disruption)
 
 # Money
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [Paradox of higher returns with lower risks - Mark Spitznagel](https://www.youtube.com/watch?v=LyGtiiGBEc8)
@@ -191,3 +192,10 @@ A curated list of things I really recommend people to see.
 5. Ruben Seoane (@rseoane_) tweeted at 7:00 pm on Sun, Nov 17, 2019: ["Moore's Law for Software: What 18 months ago took 2 or more people to build, it can now be made by one."](https://twitter.com/rseoane_/status/1196125853458911234?s=03)
 6. [Automotive 4.0 the future of Growth and Productivity by Henrik von Scheel](https://www.youtube.com/watch?v=Ut-1E2b2-PI)
 7. [Digitalization enabling to clean oceans](https://www.youtube.com/watch?v=DX6Uidpg3VM) - Nylon nets becoming recycled carpets
+
+# Disruption
+
+1. [The law of accelerating returns - Ray Kurzweil](https://www.kurzweilai.net/the-law-of-accelerating-returns)
+> * [Talk - Ray Kurzweil - The accelerating power of technology](https://www.ted.com/talks/ray_kurzweil_the_accelerating_power_of_technology/)
+> * [TedTalk - Ray Kurzweil - The accelerating Future](https://www.youtube.com/watch?v=ecAtKWiFu48)
+2. [The Seba Technology Disruption Framework - Tony Seba](https://tonyseba.com/wp-content/uploads/2014/05/STDF-booklet-binding-ok.pdf)
