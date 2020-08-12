@@ -61,6 +61,7 @@ A curated list of things I really recommend people to see.
 5. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [Could your language affect your ability to save money?](https://www.ted.com/talks/keith_chen_could_your_language_affect_your_ability_to_save_money)
 6. ![](https://www.youtube.com/watch?v=1XDpa2HLXV0) [Beautiful minds are free from fear - Robert Grant](https://www.youtube.com/watch?v=1XDpa2HLXV0)
 7. ![On spaghetti sauce - Malcolm Gladwell](https://www.youtube.com/watch?v=VkhFh5Ms1vc): Hyperpersonalization. People do not know what they want.
+8. [Human centered design](https://www.ted.com/talks/david_kelley_human_centered_design): Everyone can be creative. Creativity. After learning to get rid of fobias, people were better able to manage anxiety, frustration. After redesigning MRI machine, the engineer managed to decrease the sedation of kids from 90% to 10%, by applying design thinking.
 
 # Insights
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) Quebrar paradigma demonstra autoconfiança e é o ato de aceitar as manifestações femininas mesmo em nós mesmos
