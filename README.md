@@ -155,6 +155,14 @@ A curated list of things I really recommend people to see.
 12. Every obstacle is an opportunity to leave competition behind
 13. "why working home nights is so popular is actually its worst feature: It enables an executive to avoid tackling his time and its management during the day." (from "The Effective Executive: The Definitive Guide to Getting the Right Things Done (Harperbusiness Essentials)" by Peter F. Drucker, Jim Collins)
 14. Similar à minha sensação de maestro em uma reunião. "Manage yourself and orchestrate others to get what you want. Your greatest challenge will be having your thoughtful higher-level you manage your emotional lower-level you. The best way to do that is to consciously develop habits that will make doing the things that are good for you habitual. In managing others, the analogy that comes to mind is a great orchestra. The person in charge is the shaper-conductor who doesn’t “do” (e.g., doesn’t play an instrument, though he or she knows a lot about instruments) as much as visualize the outcome and sees to it that each member of the orchestra helps achieve it. The conductor makes sure each member of the orchestra knows what he or she is good at and what they’re not good at, and what their responsibilities are. Each must not only perform at their personal best but work together so the orchestra becomes more than the sum of its parts. One of the conductor’s hardest and most thankless jobs is getting rid of people who consistently don’t play well individually or with others. Most importantly, the conductor ensures that the score is executed exactly as he or she hears it in his or her head. “The music needs to sound this way,” she says, and then she makes sure it does. “Bass players, bring out the structure. Here are the connections, here’s the spirit.” Each section of the orchestra has its own leaders—the concertmaster, the first chairs—who also help bring out the composer’s and the conductor’s visions." (from "Principles: Life and Work" by Ray Dalio)
+15. [How to tell a story](https://www.youtube.com/watch?v=YKiIPOLG4CY)
+> * Steps to tell a story: Provide context (e.g. datasets used), show your challenges (e.g. where did you struggle), demonstrate your search for answers (e.g. conflicts between the hypothesis and the reality), describe the resolution, walk through the lessons, and the finan action.
+Key points to that: 
+> 1) Structured like a story, not a presentation
+> 2) Let audience struggle with data to find the solution
+> 3) Emotional impact of shocking data
+> 4) Surprise of solving the mystery
+> 5) LEt audience draw own conclusions and reco
 
 ## Videos on Leadership
 1. [Infinite game Simon sinek](https://www.youtube.com/watch?v=3vX2iVIJMFQ)
