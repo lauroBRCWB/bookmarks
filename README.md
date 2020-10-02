@@ -208,6 +208,7 @@ Key points to that:
 5. Ruben Seoane (@rseoane_) tweeted at 7:00 pm on Sun, Nov 17, 2019: ["Moore's Law for Software: What 18 months ago took 2 or more people to build, it can now be made by one."](https://twitter.com/rseoane_/status/1196125853458911234?s=03)
 6. [Automotive 4.0 the future of Growth and Productivity by Henrik von Scheel](https://www.youtube.com/watch?v=Ut-1E2b2-PI)
 7. [Digitalization enabling to clean oceans](https://www.youtube.com/watch?v=DX6Uidpg3VM) - Nylon nets becoming recycled carpets
+8. [Fusion Center - Anti terrorism cells (cross functional) in USA](https://en.wikipedia.org/wiki/Fusion_center)
 
 # Disruption
 
