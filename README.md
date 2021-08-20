@@ -164,6 +164,7 @@ Key points to that:
 > 3) Emotional impact of shocking data
 > 4) Surprise of solving the mystery
 > 5) LEt audience draw own conclusions and reco
+16. [How to make decisions?](https://hackernoon.com/3-heuristics-for-decision-making-naval-ravikant-3ba9d3cd1d85)
 
 ## Videos on Leadership
 1. [Infinite game Simon sinek](https://www.youtube.com/watch?v=3vX2iVIJMFQ)
