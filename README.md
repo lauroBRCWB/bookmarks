@@ -165,6 +165,8 @@ Key points to that:
 > 4) Surprise of solving the mystery
 > 5) LEt audience draw own conclusions and reco
 16. [How to make decisions?](https://hackernoon.com/3-heuristics-for-decision-making-naval-ravikant-3ba9d3cd1d85)
+17. "The good-to-great leaders spent essentially no energy trying to “create alignment,” “motivate the troops,” or “manage change.” Under the right conditions, the problems of commitment, alignment, motivation, and change largely take care of themselves. Alignment principally follows from results and momentum, not the other way around." (from "Good to Great: Why Some Companies Make the Leap...And Others Don't" by Jim Collins)
+18. "Why did the good-to-great companies have a substantially higher success rate with acquisitions, especially major acquisitions? The key to their success was that their big acquisitions generally took place after development of the Hedgehog Concept and after the flywheel had built significant momentum. They used acquisitions as an accelerator of flywheel momentum, not a creator of it." (from "Good to Great: Why Some Companies Make the Leap...And Others Don't" by Jim Collins) 
 
 ## Videos on Leadership
 1. [Infinite game Simon sinek](https://www.youtube.com/watch?v=3vX2iVIJMFQ)
