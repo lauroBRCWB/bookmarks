@@ -167,6 +167,20 @@ Key points to that:
 16. [How to make decisions?](https://hackernoon.com/3-heuristics-for-decision-making-naval-ravikant-3ba9d3cd1d85)
 17. "The good-to-great leaders spent essentially no energy trying to “create alignment,” “motivate the troops,” or “manage change.” Under the right conditions, the problems of commitment, alignment, motivation, and change largely take care of themselves. Alignment principally follows from results and momentum, not the other way around." (from "Good to Great: Why Some Companies Make the Leap...And Others Don't" by Jim Collins)
 18. "Why did the good-to-great companies have a substantially higher success rate with acquisitions, especially major acquisitions? The key to their success was that their big acquisitions generally took place after development of the Hedgehog Concept and after the flywheel had built significant momentum. They used acquisitions as an accelerator of flywheel momentum, not a creator of it." (from "Good to Great: Why Some Companies Make the Leap...And Others Don't" by Jim Collins) 
+19. [AB InBev’s Carlos Brito: Solve the right problem](https://play.acast.com/s/meet-the-leader/ab-inbevs-carlos-brito-solve-the-right-problem)
+20. [Joe Rogan Experience #1309 - Naval Ravikant](https://www.youtube.com/watch?v=3qHkcs3kG44)
+> * 1m Human beings are multi-dimensional and like to see when someone connect the dots in their unique ways
+> * 18m - If you want to be successful, you need to have a peace, calm and clear mind, with a sharp focus on the one thing.
+> * 25m37 - the size of companies is due to the cost of transaction: is it easier to transact internal or external?
+> * 32m30 - On singularity
+> * 50m - Addictive things (sugar, social media, news) versus being alone (no family).
+> * 55m - The winner takes it all (the world we're heading is full of giant corporations and very small people)
+> * 1h15m - Democracy is not real: who wins, win 100% of the power through 50%+1 votes. Which is unfair and do not allow nuances of thinkings.
+> * 1h16m - We have diseases of abundance
+> * 1h17m - Meditation
+> * 1h19m - Why meditation is important: we are exposed to so many problems, that we do not have time to think about them. When you sit down and meditate, you unstack them and start thinking and processing them. 
+> * 1h24m - The place I want to be always is peace. If you are in peace, everything you do will make you happy.
+21. [Amazon Narratives — Memos, Working Backwards From Release, More](https://future.a16z.com/podcasts/working-backwards-amazon-bezos-memos-releases-narratives/)
 
 ## Videos on Leadership
 1. [Infinite game Simon sinek](https://www.youtube.com/watch?v=3vX2iVIJMFQ)
