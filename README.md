@@ -236,3 +236,6 @@ Key points to that:
 > * [Talk - Ray Kurzweil - The accelerating power of technology](https://www.ted.com/talks/ray_kurzweil_the_accelerating_power_of_technology/)
 > * [TedTalk - Ray Kurzweil - The accelerating Future](https://www.youtube.com/watch?v=ecAtKWiFu48)
 2. [The Seba Technology Disruption Framework - Tony Seba](https://tonyseba.com/wp-content/uploads/2014/05/STDF-booklet-binding-ok.pdf)
+
+# Product Management
+1. [The perfect pitch](https://perfectpitchdeck.com/2018/01/30/sequoia-capital-pitch-deck-template/)
