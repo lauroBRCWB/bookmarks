@@ -10,3 +10,4 @@
 
 # Leadership insights
 * [Notes of leadership insights](https://github.com/laurovalente/bookmarks#leadership)
+* [Notes on Digital Leadership/Transformation](https://github.com/laurovalente/bookmarks#digital-transformation)
