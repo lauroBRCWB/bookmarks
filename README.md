@@ -181,7 +181,8 @@ Key points to that:
 > * 1h19m - Why meditation is important: we are exposed to so many problems, that we do not have time to think about them. When you sit down and meditate, you unstack them and start thinking and processing them. 
 > * 1h24m - The place I want to be always is peace. If you are in peace, everything you do will make you happy.
 21. [Amazon Narratives — Memos, Working Backwards From Release, More](https://future.a16z.com/podcasts/working-backwards-amazon-bezos-memos-releases-narratives/)
-22. [Pitch deck for requesting funding for a startup](https://twitter.com/thealexbanks/status/1580547830476775425?s=20&t=5_o1BTC_wA0ENnUlqVMVag)
+22. [Perfect Pitch deck for requesting funding for a startup](https://twitter.com/thealexbanks/status/1580547830476775425?s=20&t=5_o1BTC_wA0ENnUlqVMVag)
+23. [Authority is more important than social skills](https://open.spotify.com/episode/34fxxnQPYqR9eSz561Y13J?si=n4iujObRQJilHxtBYdsAww)
 
 ## Videos on Leadership
 1. [Infinite game Simon sinek](https://www.youtube.com/watch?v=3vX2iVIJMFQ)
