@@ -53,7 +53,7 @@ A curated list of things I really recommend people to see.
 > * (...) and also fasting; fast as much as you can, to compensate (...); the problem is the environment is too stable, it's harming us somewhere and it's making us live longer, but sicker.
 5. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) [link](https://www.youtube.com/watch?v=S3REdLZ8Xis&t=2280)
 > * What kills me makes other stronger. (...) The people think that what did not kill me, makes me stronger. And I'm saying this is wrong. It's typically because it's a selection effect, not the improvement. Let me go through the history of mistakes made with fragility. (...) So when someone says, "what didn't kill me, made me stronger" could often be that it killed the others that were weaker. And therefore I have the illusion I'm stronger, but in fact the others are weaker.
-
+6. [How to reset your dopamine levels?] (https://www.artofmanliness.com/character/habits/how-to-do-a-dopamine-reset/?mc_cid=6c8baa084d&mc_eid=fe363d0f43) 
 ## TED Talk
 1. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) [Your words may predict your future mental health](https://www.youtube.com/watch?v=uTL9tm7S1Io&feature=youtu.be)
 2. ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-usa.png) ![](https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/16/flag-brazil.png) [Change your brain, change your life](https://www.youtube.com/watch?v=wc7CCLLDTaM&feature=youtu.be)
