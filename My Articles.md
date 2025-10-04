@@ -1,4 +1,4 @@
-[Talks](#talks), [articles](#articles-published-in-LinkedIn) and [post](posts-published-in-LinkedIn) published
+[Talks](#talks), [articles](#articles-published-in-LinkedIn) and [post](#posts-published-in-LinkedIn) published
 
 # Talks
 * [\[pt\] The digital transformation journey of a major truck manufacturer in Latin America](https://sessionize.com/s/laurovalente/a-jornada-de-transformacao-digital-de-uma-grande-m/131665)
