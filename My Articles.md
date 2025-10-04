@@ -1,3 +1,13 @@
+[Talks](#talks), [articles](#articles-published-in-LinkedIn) and [post](posts-published-in-LinkedIn) published
+
+# Talks
+* [\[pt\] The digital transformation journey of a major truck manufacturer in Latin America](https://sessionize.com/s/laurovalente/a-jornada-de-transformacao-digital-de-uma-grande-m/131665)
+> Volvo Trucks Latin America drives digital transformation through agile, lean practices, change management, and business–IT collaboration to boost customer value.
+* [\[pt\] Panel on Digital leadership and innovation: Strategies to boost business in the new technological landscape](https://sessionize.com/s/laurovalente/painel-lideranca-digital-e-inovacao-estrategias-pa/132264)
+> Three seasoned leaders discuss AI, data, and tech’s role in reshaping IT, driving innovation, optimizing investments, and enabling strategic decisions.
+* [\[en subtitles\]High-performance culture in the new post-AI technological order](https://www.youtube.com/watch?t=2930&v=mhvaSccSI-w&feature=youtu.be)
+> The talk explores AI-driven technological shifts, abundant intelligence, new human skills, and technology diffusion as keys to high-performance and hyperpersonalization.
+
 # Articles published in LinkedIn
 * [Digital: a new word to describe an analog world](https://www.linkedin.com/pulse/digital-new-word-describe-analog-world-lauro-valente)
 > Digital businesses hyper personalize their outcome to perfectly solve customer’s challenges in scaled, fast, continuous, and affordable ways.
